@@ -1,0 +1,1 @@
+{"term":"1964","caseName":"Scott v. Germano","caseLink":"https://www.oyez.org/cases/1964/1152","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"1152","citation":"381 US 407 (1965)","justiaLink":"https://supreme.justia.com/cases/federal/us/381/407","lowerCourt":"","grantedOn":"","decidedOn":"Jun 1, 1965"}

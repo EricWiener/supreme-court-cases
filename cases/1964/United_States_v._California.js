@@ -1,0 +1,1 @@
+{"term":"1964","caseName":"United States v. California","caseLink":"https://www.oyez.org/cases/1964/5-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

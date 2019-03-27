@@ -1,0 +1,1 @@
+{"term":"1963","caseName":"Marder v. Massachusetts","caseLink":"https://www.oyez.org/cases/1963/8","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

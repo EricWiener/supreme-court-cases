@@ -1,0 +1,1 @@
+{"term":"1997","caseName":"New Jersey v. New York","caseLink":"https://www.oyez.org/cases/1997/120-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

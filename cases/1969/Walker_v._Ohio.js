@@ -1,0 +1,1 @@
+{"term":"1969","caseName":"Walker v. Ohio","caseLink":"https://www.oyez.org/cases/1969/1470","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"1470","citation":"398 US 434 (1970)","justiaLink":"https://supreme.justia.com/cases/federal/us/398/434","lowerCourt":"","grantedOn":"","decidedOn":"Jun 15, 1970"}

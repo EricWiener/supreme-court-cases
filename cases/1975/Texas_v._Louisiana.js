@@ -1,0 +1,1 @@
+{"term":"1975","caseName":"Texas v. Louisiana","caseLink":"https://www.oyez.org/cases/1975/36-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

@@ -1,0 +1,1 @@
+{"term":"1985","caseName":"United States v. Maine","caseLink":"https://www.oyez.org/cases/1985/35-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

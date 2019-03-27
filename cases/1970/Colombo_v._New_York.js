@@ -1,0 +1,1 @@
+{"term":"1970","caseName":"Colombo v. New York","caseLink":"https://www.oyez.org/cases/1970/175","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"Colombo","respondent":"New York","docket":"175","citation":"400 US 16 (1970)","justiaLink":"https://supreme.justia.com/cases/federal/us/400/16","lowerCourt":"","grantedOn":"","decidedOn":"Oct 19, 1970"}

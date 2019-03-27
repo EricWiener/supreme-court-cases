@@ -1,0 +1,1 @@
+{"term":"1983","caseName":"Colorado v. New Mexico","caseLink":"https://www.oyez.org/cases/1983/80-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

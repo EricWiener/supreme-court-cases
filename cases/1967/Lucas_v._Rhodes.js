@@ -1,0 +1,1 @@
+{"term":"1967","caseName":"Lucas v. Rhodes","caseLink":"https://www.oyez.org/cases/1967/568","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"568","citation":"389 US 212 (1967)","justiaLink":"https://supreme.justia.com/cases/federal/us/389/212","lowerCourt":"","grantedOn":"","decidedOn":"Dec 4, 1967"}

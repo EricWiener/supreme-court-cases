@@ -1,0 +1,1 @@
+{"term":"1998","caseName":"Lowe v. Pogue","caseLink":"https://www.oyez.org/cases/1998/98-7591","caseTranscripts":[],"decidedBy":"Rehnquist Court","arguedOn":"","petitioner":"Lowe","respondent":"Pogue","docket":"98-7591","citation":"526 US 273 (1999)","justiaLink":"https://supreme.justia.com/cases/federal/us/526/273","lowerCourt":"","grantedOn":"","decidedOn":"Mar 29, 1999"}

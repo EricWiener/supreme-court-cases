@@ -1,0 +1,1 @@
+{"term":"1981","caseName":"United States v. Louisiana (Louisiana Boundary Case)","caseLink":"https://www.oyez.org/cases/1981/9-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

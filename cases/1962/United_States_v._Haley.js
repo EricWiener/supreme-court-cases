@@ -1,0 +1,1 @@
+{"term":"1962","caseName":"United States v. Haley","caseLink":"https://www.oyez.org/cases/1962/148","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"148","citation":"371 US 18 (1962)","justiaLink":"https://supreme.justia.com/cases/federal/us/371/18","lowerCourt":"","grantedOn":"","decidedOn":"Oct 15, 1962"}

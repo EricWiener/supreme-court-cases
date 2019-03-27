@@ -1,0 +1,1 @@
+{"term":"1993","caseName":"Day v. Day","caseLink":"https://www.oyez.org/cases/1993/92-8788","caseTranscripts":[],"decidedBy":"Rehnquist Court","arguedOn":"","petitioner":"Day","respondent":"Day","docket":"92-8788","citation":"510 US 1 (1993)","justiaLink":"https://supreme.justia.com/cases/federal/us/510/1","lowerCourt":"","grantedOn":"","decidedOn":"Oct 12, 1993"}

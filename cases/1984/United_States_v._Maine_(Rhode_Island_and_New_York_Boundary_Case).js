@@ -1,0 +1,1 @@
+{"term":"1984","caseName":"United States v. Maine (Rhode Island and New York Boundary Case)","caseLink":"https://www.oyez.org/cases/1984/35-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

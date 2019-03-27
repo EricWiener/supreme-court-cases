@@ -1,0 +1,1 @@
+{"term":"1996","caseName":"In re Vey","caseLink":"https://www.oyez.org/cases/1996/96-8005","caseTranscripts":[],"decidedBy":"Rehnquist Court","arguedOn":"","petitioner":"Eileen Vey","respondent":"N/A","docket":"96-8005","citation":"520 US 303 (1997)","justiaLink":"https://supreme.justia.com/cases/federal/us/520/303","lowerCourt":"","grantedOn":"","decidedOn":"Apr 14, 1997"}

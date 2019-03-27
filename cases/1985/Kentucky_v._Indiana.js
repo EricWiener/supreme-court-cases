@@ -1,0 +1,1 @@
+{"term":"1985","caseName":"Kentucky v. Indiana","caseLink":"https://www.oyez.org/cases/1985/81-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

@@ -1,0 +1,1 @@
+{"term":"1963","caseName":"Green v. Virginia","caseLink":"https://www.oyez.org/cases/1963/761","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"Green","respondent":"Virginia","docket":"761","citation":"378 US 550 (1964)","justiaLink":"https://supreme.justia.com/cases/federal/us/378/550","lowerCourt":"","grantedOn":"","decidedOn":"Jun 22, 1964"}

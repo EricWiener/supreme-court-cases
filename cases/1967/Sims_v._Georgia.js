@@ -1,0 +1,1 @@
+{"term":"1967","caseName":"Sims v. Georgia","caseLink":"https://www.oyez.org/cases/1967/678","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"Sims","respondent":"Georgia","docket":"678","citation":"389 US 404 (1967)","justiaLink":"https://supreme.justia.com/cases/federal/us/389/404","lowerCourt":"","grantedOn":"","decidedOn":"Dec 18, 1967"}

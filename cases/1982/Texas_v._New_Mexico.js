@@ -1,0 +1,1 @@
+{"term":"1982","caseName":"Texas v. New Mexico","caseLink":"https://www.oyez.org/cases/1982/65-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

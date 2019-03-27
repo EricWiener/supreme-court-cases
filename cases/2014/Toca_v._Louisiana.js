@@ -1,0 +1,1 @@
+{"term":"2014","caseName":"Toca v. Louisiana","caseLink":"https://www.oyez.org/cases/2014/14-6381","caseTranscripts":[],"decidedBy":"Roberts Court","arguedOn":"","petitioner":"George Toca","respondent":"State of Louisiana","docket":"14-6381","citation":"Citation pending","lowerCourt":"Louisiana Supreme Court","grantedOn":"Dec 12, 2014","decidedOn":"Feb 3, 2015"}

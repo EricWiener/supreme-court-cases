@@ -1,0 +1,1 @@
+{"term":"1958","caseName":"Illinois v. Michigan","caseLink":"https://www.oyez.org/cases/1958/15-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

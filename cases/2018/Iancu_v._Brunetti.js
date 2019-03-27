@@ -1,0 +1,1 @@
+{"term":"2018","caseName":"Iancu v. Brunetti","caseLink":"https://www.oyez.org/cases/2018/18-302","caseTranscripts":[],"decidedBy":"Case pending","arguedOn":"","petitioner":"Andrei Iancu","respondent":"Erik Brunetti","docket":"18-302","citation":"Citation pending","lowerCourt":"United States Court of Appeals for the Federal Circuit","grantedOn":"Jan 4, 2019","decidedOn":""}

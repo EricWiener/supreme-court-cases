@@ -1,0 +1,1 @@
+{"term":"1969","caseName":"Shapiro v. Doe","caseLink":"https://www.oyez.org/cases/1969/805","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"805","citation":"396 US 488 (1970)","justiaLink":"https://supreme.justia.com/cases/federal/us/396/488","lowerCourt":"","grantedOn":"","decidedOn":"Jan 26, 1970"}

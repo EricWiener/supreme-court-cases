@@ -1,0 +1,1 @@
+{"term":"1956","caseName":"Gayle v. Browder","caseLink":"https://www.oyez.org/cases/1956/342","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"342","citation":"352 US 903 (1956)","justiaLink":"https://supreme.justia.com/cases/federal/us/352/903","lowerCourt":"Federal district court","grantedOn":"","decidedOn":"Nov 13, 1956"}

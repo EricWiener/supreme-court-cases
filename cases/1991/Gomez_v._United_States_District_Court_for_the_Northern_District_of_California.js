@@ -1,0 +1,1 @@
+{"term":"1991","caseName":"Gomez v. United States District Court for the Northern District of California","caseLink":"https://www.oyez.org/cases/1991/A-767","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

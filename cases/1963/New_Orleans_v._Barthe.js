@@ -1,0 +1,1 @@
+{"term":"1963","caseName":"New Orleans v. Barthe","caseLink":"https://www.oyez.org/cases/1963/663","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"New Orleans","respondent":"Barthe","docket":"663","citation":"376 US 189 (1964)","justiaLink":"https://supreme.justia.com/cases/federal/us/376/189","lowerCourt":"","grantedOn":"","decidedOn":"Feb 17, 1964"}

@@ -1,0 +1,1 @@
+{"term":"1966","caseName":"Jacobs v. New York","caseLink":"https://www.oyez.org/cases/1966/660","caseTranscripts":[],"decidedBy":"Case pending","arguedOn":"","petitioner":"","respondent":"","docket":"660","citation":"388 US 431 (1967)","justiaLink":"https://supreme.justia.com/cases/federal/us/388/431","lowerCourt":"State appellate court","grantedOn":"","decidedOn":"Jun 12, 1967"}

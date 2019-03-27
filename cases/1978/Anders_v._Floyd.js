@@ -1,0 +1,1 @@
+{"term":"1978","caseName":"Anders v. Floyd","caseLink":"https://www.oyez.org/cases/1978/77-1255","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"77-1255","citation":"440 US 445 (1979)","justiaLink":"https://supreme.justia.com/cases/federal/us/440/445","lowerCourt":"","grantedOn":"","decidedOn":"Mar 5, 1979"}

@@ -1,0 +1,1 @@
+{"term":"1962","caseName":"Randolph v. Virginia","caseLink":"https://www.oyez.org/cases/1962/20","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"Randolph","respondent":"Virginia","docket":"20","citation":"374 US 97 (1963)","justiaLink":"https://supreme.justia.com/cases/federal/us/374/97","lowerCourt":"","grantedOn":"","decidedOn":"Jun 10, 1963"}

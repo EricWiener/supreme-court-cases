@@ -1,0 +1,1 @@
+{"term":"2018","caseName":"Virginia House of Delegates v. Bethune-Hill","caseLink":"https://www.oyez.org/cases/2018/18-281","caseTranscripts":[],"decidedBy":"Case pending","arguedOn":"Pending","petitioner":"","respondent":"","docket":"18-281","citation":"Citation pending","lowerCourt":"Federal district court","grantedOn":"Sep 6, 2018","decidedOn":""}

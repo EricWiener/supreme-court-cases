@@ -1,0 +1,1 @@
+{"term":"1976","caseName":"United States v. Florida","caseLink":"https://www.oyez.org/cases/1976/54-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

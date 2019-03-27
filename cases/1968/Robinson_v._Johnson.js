@@ -1,0 +1,1 @@
+{"term":"1968","caseName":"Robinson v. Johnson","caseLink":"https://www.oyez.org/cases/1968/67","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"67","citation":"394 US 847 (1969)","justiaLink":"https://supreme.justia.com/cases/federal/us/394/847","lowerCourt":"","grantedOn":"","decidedOn":"May 5, 1969"}

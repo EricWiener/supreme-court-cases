@@ -1,0 +1,1 @@
+{"term":"1978","caseName":"Connor v. Coleman","caseLink":"https://www.oyez.org/cases/1978/78-1013","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"Connor","respondent":"Coleman","docket":"78-1013","citation":"441 US 792 (1979)","justiaLink":"https://supreme.justia.com/cases/federal/us/441/792","lowerCourt":"","grantedOn":"","decidedOn":"May 21, 1979"}

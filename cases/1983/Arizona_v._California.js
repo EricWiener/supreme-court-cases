@@ -1,0 +1,1 @@
+{"term":"1983","caseName":"Arizona v. California","caseLink":"https://www.oyez.org/cases/1983/8-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

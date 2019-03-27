@@ -1,0 +1,1 @@
+{"term":"1995","caseName":"Jones v. ABC-TV","caseLink":"https://www.oyez.org/cases/1995/95-7186","caseTranscripts":[],"decidedBy":"Rehnquist Court","arguedOn":"","petitioner":"Jones","respondent":"ABC-TV","docket":"95-7186","citation":"516 US 363 (1996)","justiaLink":"https://supreme.justia.com/cases/federal/us/516/363","lowerCourt":"","grantedOn":"","decidedOn":"Feb 26, 1996"}

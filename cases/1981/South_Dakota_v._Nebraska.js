@@ -1,0 +1,1 @@
+{"term":"1981","caseName":"South Dakota v. Nebraska","caseLink":"https://www.oyez.org/cases/1981/72-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

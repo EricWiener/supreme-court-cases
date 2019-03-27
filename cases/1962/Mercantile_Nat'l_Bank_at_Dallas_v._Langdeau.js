@@ -1,0 +1,1 @@
+{"term":"1962","caseName":"Mercantile Nat'l Bank at Dallas v. Langdeau","caseLink":"https://www.oyez.org/cases/1962/14","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

@@ -1,0 +1,1 @@
+{"term":"1961","caseName":"Arizona v. California","caseLink":"https://www.oyez.org/cases/1961/8-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

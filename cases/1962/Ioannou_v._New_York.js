@@ -1,0 +1,1 @@
+{"term":"1962","caseName":"Ioannou v. New York","caseLink":"https://www.oyez.org/cases/1962/191","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"191","citation":"371 US 30 (1962)","justiaLink":"https://supreme.justia.com/cases/federal/us/371/30","lowerCourt":"","grantedOn":"","decidedOn":"Oct 22, 1962"}

@@ -1,0 +1,1 @@
+{"term":"1973","caseName":"Dennett v. Hogan","caseLink":"https://www.oyez.org/cases/1973/72-6449","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"Dennett","respondent":"Hogan","docket":"72-6449","citation":"414 US 12 (1973)","justiaLink":"https://supreme.justia.com/cases/federal/us/414/12","lowerCourt":"","grantedOn":"","decidedOn":"Oct 23, 1973"}

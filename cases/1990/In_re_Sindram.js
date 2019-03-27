@@ -1,0 +1,1 @@
+{"term":"1990","caseName":"In re Sindram","caseLink":"https://www.oyez.org/cases/1990/90-6051","caseTranscripts":[],"decidedBy":"Rehnquist Court","arguedOn":"","petitioner":"Sindram","respondent":"N/A","docket":"90-6051","citation":"498 US 177 (1991)","justiaLink":"https://supreme.justia.com/cases/federal/us/498/177","lowerCourt":"","grantedOn":"","decidedOn":"Jan 7, 1991"}

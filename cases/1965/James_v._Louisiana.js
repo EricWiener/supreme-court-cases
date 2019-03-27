@@ -1,0 +1,1 @@
+{"term":"1965","caseName":"James v. Louisiana","caseLink":"https://www.oyez.org/cases/1965/23 MISC","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"James","respondent":"Louisiana","docket":"23 MISC","citation":"382 US 36 (1965)","justiaLink":"https://supreme.justia.com/cases/federal/us/382/36","lowerCourt":"","grantedOn":"","decidedOn":"Oct 18, 1965"}

@@ -1,0 +1,1 @@
+{"term":"1968","caseName":"Utah v. United States","caseLink":"https://www.oyez.org/cases/1968/31-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

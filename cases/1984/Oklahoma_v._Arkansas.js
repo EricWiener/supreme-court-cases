@@ -1,0 +1,1 @@
+{"term":"1984","caseName":"Oklahoma v. Arkansas","caseLink":"https://www.oyez.org/cases/1984/79-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

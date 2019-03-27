@@ -1,0 +1,1 @@
+{"term":"1969","caseName":"Illinois v. Missouri","caseLink":"https://www.oyez.org/cases/1969/18-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

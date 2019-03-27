@@ -1,0 +1,1 @@
+{"term":"1967","caseName":"Wilson v. City of Port Lavaca","caseLink":"https://www.oyez.org/cases/1967/1238","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"1238","citation":"391 US 352 (1968)","justiaLink":"https://supreme.justia.com/cases/federal/us/391/352","lowerCourt":"","grantedOn":"","decidedOn":"May 20, 1968"}

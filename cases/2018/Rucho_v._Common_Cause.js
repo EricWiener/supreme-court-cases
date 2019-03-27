@@ -1,0 +1,1 @@
+{"term":"2018","caseName":"Rucho v. Common Cause","caseLink":"https://www.oyez.org/cases/2018/18-422","caseTranscripts":[],"decidedBy":"Case pending","arguedOn":"Pending","petitioner":"","respondent":"","docket":"18-422","citation":"Citation pending","lowerCourt":"Federal district court","grantedOn":"Oct 3, 2018","decidedOn":""}

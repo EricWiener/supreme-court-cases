@@ -1,0 +1,1 @@
+{"term":"1974","caseName":"Utah v. United States","caseLink":"https://www.oyez.org/cases/1974/31-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

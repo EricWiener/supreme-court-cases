@@ -1,0 +1,1 @@
+{"term":"1965","caseName":"Lomenzo v. WMCA, Inc.","caseLink":"https://www.oyez.org/cases/1965/81","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"81","citation":"384 US 887 (1966)","justiaLink":"https://supreme.justia.com/cases/federal/us/384/887","lowerCourt":"","grantedOn":"","decidedOn":"Jun 20, 1966"}

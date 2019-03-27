@@ -1,0 +1,1 @@
+{"term":"1958","caseName":"California v. Washington","caseLink":"https://www.oyez.org/cases/1958/12-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

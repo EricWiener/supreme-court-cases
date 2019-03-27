@@ -1,0 +1,1 @@
+{"term":"1979","caseName":"Texas v. New Mexico","caseLink":"https://www.oyez.org/cases/1979/65-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

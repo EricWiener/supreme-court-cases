@@ -1,0 +1,1 @@
+{"term":"1996","caseName":"In re Gaydos","caseLink":"https://www.oyez.org/cases/1996/96-5831","caseTranscripts":[],"decidedBy":"Rehnquist Court","arguedOn":"","petitioner":"Gaydos","respondent":"N/A","docket":"96-5831","citation":"519 US 59 (1996)","justiaLink":"https://supreme.justia.com/cases/federal/us/519/59","lowerCourt":"","grantedOn":"","decidedOn":"Dec 2, 1996"}

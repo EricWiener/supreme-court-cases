@@ -1,0 +1,1 @@
+{"term":"1969","caseName":"United States v. Cotton","caseLink":"https://www.oyez.org/cases/1969/1022","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"1022","citation":"397 US 45 (1970)","justiaLink":"https://supreme.justia.com/cases/federal/us/397/45","lowerCourt":"","grantedOn":"","decidedOn":"Feb 24, 1970"}

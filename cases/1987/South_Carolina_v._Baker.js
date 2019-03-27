@@ -1,0 +1,1 @@
+{"term":"1987","caseName":"South Carolina v. Baker","caseLink":"https://www.oyez.org/cases/1987/94-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

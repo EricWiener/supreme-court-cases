@@ -1,0 +1,1 @@
+{"term":"1979","caseName":"Idaho ex rel. Evans v. Oregon","caseLink":"https://www.oyez.org/cases/1979/67-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

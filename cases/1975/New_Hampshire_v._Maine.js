@@ -1,0 +1,1 @@
+{"term":"1975","caseName":"New Hampshire v. Maine","caseLink":"https://www.oyez.org/cases/1975/64-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

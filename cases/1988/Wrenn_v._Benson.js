@@ -1,0 +1,1 @@
+{"term":"1988","caseName":"Wrenn v. Benson","caseLink":"https://www.oyez.org/cases/1988/88-6494","caseTranscripts":[],"decidedBy":"Rehnquist Court","arguedOn":"","petitioner":"Wrenn","respondent":"Benson","docket":"88-6494","citation":"490 US 89 (1989)","justiaLink":"https://supreme.justia.com/cases/federal/us/490/89","lowerCourt":"","grantedOn":"","decidedOn":"Apr 17, 1989"}

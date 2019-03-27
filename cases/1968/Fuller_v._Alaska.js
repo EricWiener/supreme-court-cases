@@ -1,0 +1,1 @@
+{"term":"1968","caseName":"Fuller v. Alaska","caseLink":"https://www.oyez.org/cases/1968/249","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"Fuller","respondent":"Alaska","docket":"249","citation":"393 US 80 (1968)","justiaLink":"https://supreme.justia.com/cases/federal/us/393/80","lowerCourt":"","grantedOn":"","decidedOn":"Oct 28, 1968"}

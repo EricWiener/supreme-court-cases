@@ -1,0 +1,1 @@
+{"term":"1958","caseName":"Evers v. Dwyer","caseLink":"https://www.oyez.org/cases/1958/382","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"382","citation":"358 US 202 (1958)","justiaLink":"https://supreme.justia.com/cases/federal/us/358/202","lowerCourt":"","grantedOn":"","decidedOn":"Dec 15, 1958"}

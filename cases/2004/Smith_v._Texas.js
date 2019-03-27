@@ -1,0 +1,1 @@
+{"term":"2004","caseName":"Smith v. Texas","caseLink":"https://www.oyez.org/cases/2004/04-5323","caseTranscripts":[],"decidedBy":"Rehnquist Court","arguedOn":"","petitioner":"Smith","respondent":"Texas","docket":"04-5323","citation":"543 US 37 (2004)","justiaLink":"https://supreme.justia.com/cases/federal/us/543/37","lowerCourt":"","grantedOn":"","decidedOn":"Nov 15, 2004"}

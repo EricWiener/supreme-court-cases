@@ -1,0 +1,1 @@
+{"term":"1975","caseName":"Connor v. Coleman","caseLink":"https://www.oyez.org/cases/1975/75-1184","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"Connor","respondent":"Coleman","docket":"75-1184","citation":"425 US 675 (1976)","justiaLink":"https://supreme.justia.com/cases/federal/us/425/675","lowerCourt":"","grantedOn":"","decidedOn":"May 19, 1976"}

@@ -1,0 +1,1 @@
+{"term":"1970","caseName":"United States v. City of Chicago","caseLink":"https://www.oyez.org/cases/1970/386","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"386","citation":"400 US 8 (1970)","justiaLink":"https://supreme.justia.com/cases/federal/us/400/8","lowerCourt":"","grantedOn":"","decidedOn":"Oct 19, 1970"}

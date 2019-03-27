@@ -1,0 +1,1 @@
+{"term":"1968","caseName":"United States v. Louisiana (Texas Boundary Case)","caseLink":"https://www.oyez.org/cases/1968/9-orig-2","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

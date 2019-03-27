@@ -1,0 +1,1 @@
+{"term":"1963","caseName":"United States v. Continental Oil Company","caseLink":"https://www.oyez.org/cases/1963/834","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"834","citation":"377 US 161 (1964)","justiaLink":"https://supreme.justia.com/cases/federal/us/377/161","lowerCourt":"","grantedOn":"","decidedOn":"May 4, 1964"}

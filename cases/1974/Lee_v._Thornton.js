@@ -1,0 +1,1 @@
+{"term":"1974","caseName":"Lee v. Thornton","caseLink":"https://www.oyez.org/cases/1974/73-7006","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"73-7006","citation":"420 US 139 (1975)","justiaLink":"https://supreme.justia.com/cases/federal/us/420/139","lowerCourt":"","grantedOn":"","decidedOn":"Feb 18, 1975"}

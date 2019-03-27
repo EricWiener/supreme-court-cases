@@ -1,0 +1,1 @@
+{"term":"1974","caseName":"Connor v. Waller","caseLink":"https://www.oyez.org/cases/1974/74-1509","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"74-1509","citation":"421 US 656 (1975)","justiaLink":"https://supreme.justia.com/cases/federal/us/421/656","lowerCourt":"","grantedOn":"","decidedOn":"Jun 5, 1975"}

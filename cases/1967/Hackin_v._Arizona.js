@@ -1,0 +1,1 @@
+{"term":"1967","caseName":"Hackin v. Arizona","caseLink":"https://www.oyez.org/cases/1967/523","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"Hackin","respondent":"Arizona","docket":"523","citation":"389 US 143 (1967)","justiaLink":"https://supreme.justia.com/cases/federal/us/389/143","lowerCourt":"","grantedOn":"","decidedOn":"Nov 13, 1967"}

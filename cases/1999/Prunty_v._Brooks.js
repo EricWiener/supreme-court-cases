@@ -1,0 +1,1 @@
+{"term":"1999","caseName":"Prunty v. Brooks","caseLink":"https://www.oyez.org/cases/1999/99-5316","caseTranscripts":[],"decidedBy":"Rehnquist Court","arguedOn":"","petitioner":"Prunty","respondent":"Brooks","docket":"99-5316","citation":"528 US 9 (1999)","justiaLink":"https://supreme.justia.com/cases/federal/us/528/9","lowerCourt":"","grantedOn":"","decidedOn":"Oct 12, 1999"}

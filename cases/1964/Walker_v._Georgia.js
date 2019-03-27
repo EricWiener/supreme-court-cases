@@ -1,0 +1,1 @@
+{"term":"1964","caseName":"Walker v. Georgia","caseLink":"https://www.oyez.org/cases/1964/1072","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"Walker","respondent":"Georgia","docket":"1072","citation":"381 US 355 (1965)","justiaLink":"https://supreme.justia.com/cases/federal/us/381/355","lowerCourt":"","grantedOn":"","decidedOn":"May 24, 1965"}

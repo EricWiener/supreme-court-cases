@@ -1,0 +1,1 @@
+{"term":"1972","caseName":"Burns v. Fortson","caseLink":"https://www.oyez.org/cases/1972/72-901","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"72-901","citation":"410 US 686 (1973)","justiaLink":"https://supreme.justia.com/cases/federal/us/410/686","lowerCourt":"","grantedOn":"","decidedOn":"Mar 19, 1973"}

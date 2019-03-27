@@ -1,0 +1,1 @@
+{"term":"1971","caseName":"Hicks v. Pleasure House, Inc.","caseLink":"https://www.oyez.org/cases/1971/70-127","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"70-127","citation":"404 US 1 (1971)","justiaLink":"https://supreme.justia.com/cases/federal/us/404/1","lowerCourt":"","grantedOn":"","decidedOn":"Oct 12, 1971"}

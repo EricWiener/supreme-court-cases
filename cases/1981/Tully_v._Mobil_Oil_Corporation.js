@@ -1,0 +1,1 @@
+{"term":"1981","caseName":"Tully v. Mobil Oil Corporation","caseLink":"https://www.oyez.org/cases/1981/81-96","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"81-96","citation":"455 US 245 (1982)","justiaLink":"https://supreme.justia.com/cases/federal/us/455/245","lowerCourt":"","grantedOn":"","decidedOn":"Feb 22, 1982"}

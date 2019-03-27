@@ -1,0 +1,1 @@
+{"term":"1965","caseName":"South Carolina v. Katzenbach","caseLink":"https://www.oyez.org/cases/1965/22-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

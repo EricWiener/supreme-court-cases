@@ -1,0 +1,1 @@
+{"term":"2018","caseName":"McDonough v. Smith","caseLink":"https://www.oyez.org/cases/2018/18-485","caseTranscripts":[],"decidedBy":"Case pending","arguedOn":"","petitioner":"Edward G. McDonough","respondent":"Youel Smith","docket":"18-485","citation":"Citation pending","lowerCourt":"United States Court of Appeals for the Second Circuit","grantedOn":"Jan 11, 2019","decidedOn":""}

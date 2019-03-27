@@ -1,0 +1,1 @@
+{"term":"1981","caseName":"Texas v. Oklahoma","caseLink":"https://www.oyez.org/cases/1981/85-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

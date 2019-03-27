@@ -1,0 +1,1 @@
+{"term":"1979","caseName":"California v. Nevada","caseLink":"https://www.oyez.org/cases/1979/73-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

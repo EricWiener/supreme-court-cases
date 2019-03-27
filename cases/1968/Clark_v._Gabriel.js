@@ -1,0 +1,1 @@
+{"term":"1968","caseName":"Clark v. Gabriel","caseLink":"https://www.oyez.org/cases/1968/572","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"572","citation":"393 US 256 (1968)","justiaLink":"https://supreme.justia.com/cases/federal/us/393/256","lowerCourt":"","grantedOn":"","decidedOn":"Dec 16, 1968"}

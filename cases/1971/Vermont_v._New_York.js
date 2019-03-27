@@ -1,0 +1,1 @@
+{"term":"1971","caseName":"Vermont v. New York","caseLink":"https://www.oyez.org/cases/1971/50-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

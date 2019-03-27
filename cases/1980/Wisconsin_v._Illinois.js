@@ -1,0 +1,1 @@
+{"term":"1980","caseName":"Wisconsin v. Illinois","caseLink":"https://www.oyez.org/cases/1980/1-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

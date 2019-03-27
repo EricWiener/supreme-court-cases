@@ -1,0 +1,1 @@
+{"term":"1960","caseName":"United States v. Parke, Davis & Company","caseLink":"https://www.oyez.org/cases/1960/526","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"526","citation":"365 US 125 (1961)","justiaLink":"https://supreme.justia.com/cases/federal/us/365/125","lowerCourt":"","grantedOn":"","decidedOn":"Jan 23, 1961"}

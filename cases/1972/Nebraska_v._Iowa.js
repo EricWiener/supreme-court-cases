@@ -1,0 +1,1 @@
+{"term":"1972","caseName":"Nebraska v. Iowa","caseLink":"https://www.oyez.org/cases/1972/17-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

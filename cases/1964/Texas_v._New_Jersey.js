@@ -1,0 +1,1 @@
+{"term":"1964","caseName":"Texas v. New Jersey","caseLink":"https://www.oyez.org/cases/1964/13-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

@@ -1,0 +1,1 @@
+{"term":"1972","caseName":"Richardson v. Morris","caseLink":"https://www.oyez.org/cases/1972/72-603","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"72-603","citation":"409 US 464 (1973)","justiaLink":"https://supreme.justia.com/cases/federal/us/409/464","lowerCourt":"","grantedOn":"","decidedOn":"Jan 15, 1973"}

@@ -1,0 +1,1 @@
+{"term":"1990","caseName":"Mississippi v. United States","caseLink":"https://www.oyez.org/cases/1990/113-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

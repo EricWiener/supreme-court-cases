@@ -1,0 +1,1 @@
+{"term":"1967","caseName":"Teitel Film Corporation v. Cusack","caseLink":"https://www.oyez.org/cases/1967/787","caseTranscripts":[],"decidedBy":"Warren Court","arguedOn":"","petitioner":"","respondent":"","docket":"787","citation":"390 US 139 (1968)","justiaLink":"https://supreme.justia.com/cases/federal/us/390/139","lowerCourt":"","grantedOn":"","decidedOn":"Jan 29, 1968"}

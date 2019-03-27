@@ -1,0 +1,1 @@
+{"term":"1976","caseName":"Idaho ex rel. Andrus v. Oregon","caseLink":"https://www.oyez.org/cases/1976/67-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}

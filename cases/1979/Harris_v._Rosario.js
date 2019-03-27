@@ -1,0 +1,1 @@
+{"term":"1979","caseName":"Harris v. Rosario","caseLink":"https://www.oyez.org/cases/1979/79-1294","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"79-1294","citation":"446 US 651 (1980)","justiaLink":"https://supreme.justia.com/cases/federal/us/446/651","lowerCourt":"","grantedOn":"","decidedOn":"May 27, 1980"}

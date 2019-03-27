@@ -1,0 +1,1 @@
+{"term":"1976","caseName":"Califano v. Webster","caseLink":"https://www.oyez.org/cases/1976/76-457","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"76-457","citation":"430 US 313 (1977)","justiaLink":"https://supreme.justia.com/cases/federal/us/430/313","lowerCourt":"","grantedOn":"","decidedOn":"Mar 21, 1977"}

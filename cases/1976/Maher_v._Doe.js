@@ -1,0 +1,1 @@
+{"term":"1976","caseName":"Maher v. Doe","caseLink":"https://www.oyez.org/cases/1976/76-878","caseTranscripts":[],"decidedBy":"Burger Court","arguedOn":"","petitioner":"","respondent":"","docket":"76-878","citation":"432 US 526 (1977)","justiaLink":"https://supreme.justia.com/cases/federal/us/432/526","lowerCourt":"","grantedOn":"","decidedOn":"Jun 20, 1977"}
