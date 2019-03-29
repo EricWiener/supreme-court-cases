@@ -2,6 +2,7 @@
     "Brett M. Kavanaugh": {
         "name": "Brett M. Kavanaugh",
         "justice_link": "https://www.oyez.org/justices/brett_m_kavanaugh",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brett_Kavanaugh",
         "start_date": {
             "month": "Oct",
             "day": 6,
@@ -31,6 +32,10 @@
         },
         "role": {
             "appointing_president": "Donald J. Trump",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "",
             "date_sworn_in": "Oct 6, 2018",
@@ -43,6 +48,7 @@
     "Neil Gorsuch": {
         "name": "Neil Gorsuch",
         "justice_link": "https://www.oyez.org/justices/neil_gorsuch",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Neil_Gorsuch",
         "start_date": {
             "month": "Apr",
             "day": 7,
@@ -72,6 +78,10 @@
         },
         "role": {
             "appointing_president": "Donald J. Trump",
+            "appointing_party": "Republican",
+            "start_affiliation": "",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Apr 8, 2017",
             "date_sworn_in": "Apr 10, 2017",
@@ -84,6 +94,7 @@
     "Elena Kagan": {
         "name": "Elena Kagan",
         "justice_link": "https://www.oyez.org/justices/elena_kagan",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Elena_Kagan",
         "start_date": {
             "month": "Aug",
             "day": 7,
@@ -113,6 +124,10 @@
         },
         "role": {
             "appointing_president": "Barack Obama",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Aug 6, 2010",
             "date_sworn_in": "Aug 7, 2010",
@@ -125,6 +140,7 @@
     "Sonia Sotomayor": {
         "name": "Sonia Sotomayor",
         "justice_link": "https://www.oyez.org/justices/sonia_sotomayor",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sonia_Sotomayor",
         "start_date": {
             "month": "Aug",
             "day": 8,
@@ -153,7 +169,11 @@
             "fathers_occupation": "Tool worker, physician, professor"
         },
         "role": {
-            "appointing_president": "",
+            "appointing_president": "Barack Obama",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "Independent",
+            "party_switch_year": "2009",
             "date_appointed": "",
             "date_commissioned": "Aug 6, 2009",
             "date_sworn_in": "Aug 8, 2009",
@@ -166,6 +186,7 @@
     "Samuel A. Alito Junior": {
         "name": "Samuel A. Alito Junior",
         "justice_link": "https://www.oyez.org/justices/samuel_a_alito_jr",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Samuel_Alito",
         "start_date": {
             "month": "Jan",
             "day": 31,
@@ -195,6 +216,10 @@
         },
         "role": {
             "appointing_president": "George W. Bush",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 31, 2006",
             "date_sworn_in": "Jan 31, 2006",
@@ -207,6 +232,7 @@
     "John G. Roberts Junior": {
         "name": "John G. Roberts Junior",
         "justice_link": "https://www.oyez.org/justices/john_g_roberts_jr",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_Roberts",
         "start_date": {
             "month": "Sep",
             "day": 29,
@@ -236,6 +262,10 @@
         },
         "role": {
             "appointing_president": "George W. Bush",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 29, 2005",
             "date_sworn_in": "Sep 29, 2005",
@@ -248,6 +278,7 @@
     "Stephen G. Breyer": {
         "name": "Stephen G. Breyer",
         "justice_link": "https://www.oyez.org/justices/stephen_g_breyer",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Stephen_Breyer",
         "start_date": {
             "month": "Aug",
             "day": 3,
@@ -277,6 +308,10 @@
         },
         "role": {
             "appointing_president": "Bill Clinton",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Aug 2, 1994",
             "date_sworn_in": "Aug 3, 1994",
@@ -289,6 +324,7 @@
     "Ruth Bader Ginsburg": {
         "name": "Ruth Bader Ginsburg",
         "justice_link": "https://www.oyez.org/justices/ruth_bader_ginsburg",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg",
         "start_date": {
             "month": "Aug",
             "day": 10,
@@ -318,6 +354,10 @@
         },
         "role": {
             "appointing_president": "Bill Clinton",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Aug 5, 1993",
             "date_sworn_in": "Aug 10, 1993",
@@ -330,6 +370,7 @@
     "Clarence Thomas": {
         "name": "Clarence Thomas",
         "justice_link": "https://www.oyez.org/justices/clarence_thomas",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Clarence_Thomas",
         "start_date": {
             "month": "Oct",
             "day": 23,
@@ -359,6 +400,10 @@
         },
         "role": {
             "appointing_president": "George H. W. Bush",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Oct 16, 1991",
             "date_sworn_in": "Oct 23, 1991",
@@ -371,6 +416,7 @@
     "David H. Souter": {
         "name": "David H. Souter",
         "justice_link": "https://www.oyez.org/justices/david_h_souter",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/David_Souter",
         "start_date": {
             "month": "Oct",
             "day": 8,
@@ -400,6 +446,10 @@
         },
         "role": {
             "appointing_president": "George H. W. Bush",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Oct 2, 1990",
             "date_sworn_in": "Oct 8, 1990",
@@ -412,6 +462,7 @@
     "Anthony M. Kennedy": {
         "name": "Anthony M. Kennedy",
         "justice_link": "https://www.oyez.org/justices/anthony_m_kennedy",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Anthony_Kennedy",
         "start_date": {
             "month": "Feb",
             "day": 18,
@@ -441,6 +492,10 @@
         },
         "role": {
             "appointing_president": "Ronald Reagan",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Feb 11, 1988",
             "date_sworn_in": "Feb 18, 1988",
@@ -453,6 +508,7 @@
     "Antonin Scalia": {
         "name": "Antonin Scalia",
         "justice_link": "https://www.oyez.org/justices/antonin_scalia",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antonin_Scalia",
         "start_date": {
             "month": "Sep",
             "day": 26,
@@ -482,6 +538,10 @@
         },
         "role": {
             "appointing_president": "Ronald Reagan",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 25, 1986",
             "date_sworn_in": "Sep 26, 1986",
@@ -494,6 +554,7 @@
     "Sandra Day O'Connor": {
         "name": "Sandra Day O'Connor",
         "justice_link": "https://www.oyez.org/justices/sandra_day_oconnor",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor",
         "start_date": {
             "month": "Sep",
             "day": 25,
@@ -523,6 +584,10 @@
         },
         "role": {
             "appointing_president": "Ronald Reagan",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 22, 1981",
             "date_sworn_in": "Sep 25, 1981",
@@ -535,6 +600,7 @@
     "John Paul Stevens": {
         "name": "John Paul Stevens",
         "justice_link": "https://www.oyez.org/justices/john_paul_stevens",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_Paul_Stevens",
         "start_date": {
             "month": "Dec",
             "day": 19,
@@ -564,6 +630,10 @@
         },
         "role": {
             "appointing_president": "Gerald Ford",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 17, 1975",
             "date_sworn_in": "Dec 19, 1975",
@@ -576,6 +646,7 @@
     "Lewis F. Powell Junior": {
         "name": "Lewis F. Powell Junior",
         "justice_link": "https://www.oyez.org/justices/lewis_f_powell_jr",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lewis_F._Powell_Jr.",
         "start_date": {
             "month": "Jan",
             "day": 7,
@@ -605,6 +676,10 @@
         },
         "role": {
             "appointing_president": "Richard Nixon",
+            "appointing_party": "Republican",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 9, 1971",
             "date_sworn_in": "Jan 7, 1972",
@@ -617,6 +692,7 @@
     "William H. Rehnquist": {
         "name": "William H. Rehnquist",
         "justice_link": "https://www.oyez.org/justices/william_h_rehnquist",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/William_Rehnquist",
         "start_date": {
             "month": "Sep",
             "day": 26,
@@ -646,6 +722,10 @@
         },
         "role": {
             "appointing_president": "Richard Nixon",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 15, 1971",
             "date_sworn_in": "Jan 7, 1972",
@@ -658,6 +738,7 @@
     "Harry A. Blackmun": {
         "name": "Harry A. Blackmun",
         "justice_link": "https://www.oyez.org/justices/harry_a_blackmun",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Harry_Blackmun",
         "start_date": {
             "month": "Jun",
             "day": 9,
@@ -687,6 +768,10 @@
         },
         "role": {
             "appointing_president": "Richard Nixon",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "May 14, 1970",
             "date_sworn_in": "Jun 9, 1970",
@@ -699,6 +784,7 @@
     "Warren E. Burger": {
         "name": "Warren E. Burger",
         "justice_link": "https://www.oyez.org/justices/warren_e_burger",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Warren_E._Burger",
         "start_date": {
             "month": "Jun",
             "day": 23,
@@ -728,6 +814,10 @@
         },
         "role": {
             "appointing_president": "Richard Nixon",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jun 23, 1969",
             "date_sworn_in": "Jun 23, 1969",
@@ -740,6 +830,7 @@
     "Thurgood Marshall": {
         "name": "Thurgood Marshall",
         "justice_link": "https://www.oyez.org/justices/thurgood_marshall",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thurgood_Marshall",
         "start_date": {
             "month": "Oct",
             "day": 2,
@@ -769,6 +860,10 @@
         },
         "role": {
             "appointing_president": "Lyndon B. Johnson",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Aug 30, 1967",
             "date_sworn_in": "Oct 2, 1967",
@@ -781,6 +876,7 @@
     "Abe Fortas": {
         "name": "Abe Fortas",
         "justice_link": "https://www.oyez.org/justices/abe_fortas",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Abe_Fortas",
         "start_date": {
             "month": "Oct",
             "day": 4,
@@ -810,6 +906,10 @@
         },
         "role": {
             "appointing_president": "Lyndon B. Johnson",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Aug 11, 1965",
             "date_sworn_in": "Oct 4, 1965",
@@ -822,6 +922,7 @@
     "Arthur J. Goldberg": {
         "name": "Arthur J. Goldberg",
         "justice_link": "https://www.oyez.org/justices/arthur_j_goldberg",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arthur_Goldberg",
         "start_date": {
             "month": "Oct",
             "day": 1,
@@ -851,6 +952,10 @@
         },
         "role": {
             "appointing_president": "John F. Kennedy",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 28, 1962",
             "date_sworn_in": "Oct 1, 1962",
@@ -863,6 +968,7 @@
     "Byron R. White": {
         "name": "Byron R. White",
         "justice_link": "https://www.oyez.org/justices/byron_r_white",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Byron_White",
         "start_date": {
             "month": "Apr",
             "day": 16,
@@ -892,6 +998,10 @@
         },
         "role": {
             "appointing_president": "John F. Kennedy",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Apr 12, 1962",
             "date_sworn_in": "Apr 16, 1962",
@@ -904,6 +1014,7 @@
     "Potter Stewart": {
         "name": "Potter Stewart",
         "justice_link": "https://www.oyez.org/justices/potter_stewart",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Potter_Stewart",
         "start_date": {
             "month": "Oct",
             "day": 14,
@@ -933,6 +1044,10 @@
         },
         "role": {
             "appointing_president": "Dwight D. Eisenhower",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Oct 14, 1958",
             "date_sworn_in": "Oct 14, 1958",
@@ -945,6 +1060,7 @@
     "Charles E. Whittaker": {
         "name": "Charles E. Whittaker",
         "justice_link": "https://www.oyez.org/justices/charles_e_whittaker",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Charles_Evans_Whittaker",
         "start_date": {
             "month": "Mar",
             "day": 25,
@@ -974,6 +1090,10 @@
         },
         "role": {
             "appointing_president": "Dwight D. Eisenhower",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 22, 1957",
             "date_sworn_in": "Mar 25, 1957",
@@ -986,6 +1106,7 @@
     "William J. Brennan Junior": {
         "name": "William J. Brennan Junior",
         "justice_link": "https://www.oyez.org/justices/william_j_brennan_jr",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/William_J._Brennan_Jr.",
         "start_date": {
             "month": "Oct",
             "day": 16,
@@ -1015,6 +1136,10 @@
         },
         "role": {
             "appointing_president": "Dwight D. Eisenhower",
+            "appointing_party": "Republican",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Oct 15, 1956",
             "date_sworn_in": "Oct 16, 1956",
@@ -1027,6 +1152,7 @@
     "John M. Harlan II": {
         "name": "John M. Harlan II",
         "justice_link": "https://www.oyez.org/justices/john_m_harlan2",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_Marshall_Harlan_(1899%E2%80%931971)",
         "start_date": {
             "month": "Mar",
             "day": 28,
@@ -1056,6 +1182,10 @@
         },
         "role": {
             "appointing_president": "Dwight D. Eisenhower",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 17, 1955",
             "date_sworn_in": "Mar 28, 1955",
@@ -1068,6 +1198,7 @@
     "Earl Warren": {
         "name": "Earl Warren",
         "justice_link": "https://www.oyez.org/justices/earl_warren",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Earl_Warren",
         "start_date": {
             "month": "Oct",
             "day": 5,
@@ -1097,6 +1228,10 @@
         },
         "role": {
             "appointing_president": "Dwight D. Eisenhower",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Oct 2, 1953",
             "date_sworn_in": "Oct 5, 1953",
@@ -1109,6 +1244,7 @@
     "Sherman Minton": {
         "name": "Sherman Minton",
         "justice_link": "https://www.oyez.org/justices/sherman_minton",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sherman_Minton",
         "start_date": {
             "month": "Oct",
             "day": 12,
@@ -1138,6 +1274,10 @@
         },
         "role": {
             "appointing_president": "Harry S. Truman",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Oct 5, 1949",
             "date_sworn_in": "Oct 12, 1949",
@@ -1150,6 +1290,7 @@
     "Tom C. Clark": {
         "name": "Tom C. Clark",
         "justice_link": "https://www.oyez.org/justices/tom_c_clark",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tom_C._Clark",
         "start_date": {
             "month": "Aug",
             "day": 24,
@@ -1179,6 +1320,10 @@
         },
         "role": {
             "appointing_president": "Harry S. Truman",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Aug 19, 1949",
             "date_sworn_in": "Aug 24, 1949",
@@ -1191,6 +1336,7 @@
     "Fred M. Vinson Junior": {
         "name": "Fred M. Vinson Junior",
         "justice_link": "https://www.oyez.org/justices/fred_m_vinson",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fred_M._Vinson",
         "start_date": {
             "month": "Jun",
             "day": 24,
@@ -1220,6 +1366,10 @@
         },
         "role": {
             "appointing_president": "Harry S. Truman",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jun 21, 1946",
             "date_sworn_in": "Jun 24, 1946",
@@ -1232,6 +1382,7 @@
     "Harold Burton": {
         "name": "Harold Burton",
         "justice_link": "https://www.oyez.org/justices/harold_burton",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Harold_Hitz_Burton",
         "start_date": {
             "month": "Oct",
             "day": 1,
@@ -1261,6 +1412,10 @@
         },
         "role": {
             "appointing_president": "Harry S. Truman",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 22, 1945",
             "date_sworn_in": "Oct 1, 1945",
@@ -1273,6 +1428,7 @@
     "Wiley B. Rutledge": {
         "name": "Wiley B. Rutledge",
         "justice_link": "https://www.oyez.org/justices/wiley_b_rutledge",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wiley_Blount_Rutledge",
         "start_date": {
             "month": "Feb",
             "day": 15,
@@ -1302,6 +1458,10 @@
         },
         "role": {
             "appointing_president": "Franklin D. Roosevelt",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Feb 11, 1943",
             "date_sworn_in": "Feb 15, 1943",
@@ -1314,6 +1474,7 @@
     "Robert H. Jackson": {
         "name": "Robert H. Jackson",
         "justice_link": "https://www.oyez.org/justices/robert_h_jackson",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Robert_H._Jackson",
         "start_date": {
             "month": "Jul",
             "day": 11,
@@ -1343,6 +1504,10 @@
         },
         "role": {
             "appointing_president": "Franklin D. Roosevelt",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jul 11, 1941",
             "date_sworn_in": "Jul 11, 1941",
@@ -1355,6 +1520,7 @@
     "James F. Byrnes": {
         "name": "James F. Byrnes",
         "justice_link": "https://www.oyez.org/justices/james_f_byrnes",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/James_F._Byrnes",
         "start_date": {
             "month": "Jul",
             "day": 8,
@@ -1384,6 +1550,10 @@
         },
         "role": {
             "appointing_president": "Franklin D. Roosevelt",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jun 25, 1941",
             "date_sworn_in": "Jul 8, 1941",
@@ -1396,6 +1566,7 @@
     "Frank Murphy": {
         "name": "Frank Murphy",
         "justice_link": "https://www.oyez.org/justices/frank_murphy",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Frank_Murphy",
         "start_date": {
             "month": "Feb",
             "day": 5,
@@ -1425,6 +1596,10 @@
         },
         "role": {
             "appointing_president": "Franklin D. Roosevelt",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 18, 1940",
             "date_sworn_in": "Feb 5, 1940",
@@ -1437,6 +1612,7 @@
     "William O. Douglas": {
         "name": "William O. Douglas",
         "justice_link": "https://www.oyez.org/justices/william_o_douglas",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/William_O._Douglas",
         "start_date": {
             "month": "Apr",
             "day": 17,
@@ -1466,6 +1642,10 @@
         },
         "role": {
             "appointing_president": "Franklin D. Roosevelt",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Apr 15, 1939",
             "date_sworn_in": "Apr 17, 1939",
@@ -1478,6 +1658,7 @@
     "Felix Frankfurter": {
         "name": "Felix Frankfurter",
         "justice_link": "https://www.oyez.org/justices/felix_frankfurter",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Felix_Frankfurter",
         "start_date": {
             "month": "Jan",
             "day": 30,
@@ -1507,6 +1688,10 @@
         },
         "role": {
             "appointing_president": "Franklin D. Roosevelt",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Independent",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 20, 1939",
             "date_sworn_in": "Jan 30, 1939",
@@ -1519,6 +1704,7 @@
     "Stanley Reed": {
         "name": "Stanley Reed",
         "justice_link": "https://www.oyez.org/justices/stanley_reed",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Stanley_Forman_Reed",
         "start_date": {
             "month": "Jan",
             "day": 31,
@@ -1548,6 +1734,10 @@
         },
         "role": {
             "appointing_president": "Franklin D. Roosevelt",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 27, 1938",
             "date_sworn_in": "Jan 31, 1938",
@@ -1560,6 +1750,7 @@
     "Hugo L. Black": {
         "name": "Hugo L. Black",
         "justice_link": "https://www.oyez.org/justices/hugo_l_black",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hugo_Black",
         "start_date": {
             "month": "Aug",
             "day": 19,
@@ -1589,6 +1780,10 @@
         },
         "role": {
             "appointing_president": "Franklin D. Roosevelt",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Aug 18, 1937",
             "date_sworn_in": "Aug 19, 1937",
@@ -1601,6 +1796,7 @@
     "Benjamin N. Cardozo": {
         "name": "Benjamin N. Cardozo",
         "justice_link": "https://www.oyez.org/justices/benjamin_n_cardozo",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Benjamin_N._Cardozo",
         "start_date": {
             "month": "Mar",
             "day": 14,
@@ -1630,6 +1826,10 @@
         },
         "role": {
             "appointing_president": "Herbert Hoover",
+            "appointing_party": "Republican",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 2, 1932",
             "date_sworn_in": "Mar 14, 1932",
@@ -1642,6 +1842,7 @@
     "Owen J. Roberts": {
         "name": "Owen J. Roberts",
         "justice_link": "https://www.oyez.org/justices/owen_j_roberts",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Owen_Roberts",
         "start_date": {
             "month": "Jun",
             "day": 2,
@@ -1671,6 +1872,10 @@
         },
         "role": {
             "appointing_president": "Herbert Hoover",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "May 20, 1930",
             "date_sworn_in": "Jun 2, 1930",
@@ -1683,6 +1888,7 @@
     "Harlan Fiske Stone": {
         "name": "Harlan Fiske Stone",
         "justice_link": "https://www.oyez.org/justices/harlan_fiske_stone",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Harlan_F._Stone",
         "start_date": {
             "month": "Jul",
             "day": 3,
@@ -1712,6 +1918,10 @@
         },
         "role": {
             "appointing_president": "Calvin Coolidge",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Feb 5, 1925",
             "date_sworn_in": "Mar 2, 1925",
@@ -1724,6 +1934,7 @@
     "Edward T. Sanford": {
         "name": "Edward T. Sanford",
         "justice_link": "https://www.oyez.org/justices/edward_t_sanford",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Edward_Terry_Sanford",
         "start_date": {
             "month": "Feb",
             "day": 19,
@@ -1753,6 +1964,10 @@
         },
         "role": {
             "appointing_president": "Warren G. Harding",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 29, 1923",
             "date_sworn_in": "Feb 19, 1923",
@@ -1765,6 +1980,7 @@
     "Pierce Butler": {
         "name": "Pierce Butler",
         "justice_link": "https://www.oyez.org/justices/pierce_butler",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pierce_Butler_(justice)",
         "start_date": {
             "month": "Jan",
             "day": 2,
@@ -1794,6 +2010,10 @@
         },
         "role": {
             "appointing_president": "Warren G. Harding",
+            "appointing_party": "Republican",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 21, 1922",
             "date_sworn_in": "Jan 2, 1923",
@@ -1806,6 +2026,7 @@
     "George Sutherland": {
         "name": "George Sutherland",
         "justice_link": "https://www.oyez.org/justices/george_sutherland",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/George_Sutherland",
         "start_date": {
             "month": "Oct",
             "day": 2,
@@ -1835,6 +2056,10 @@
         },
         "role": {
             "appointing_president": "Warren G. Harding",
+            "appointing_party": "Republican",
+            "start_affiliation": "Liberal",
+            "end_affiliation": "Republican",
+            "party_switch_year": "1896",
             "date_appointed": "",
             "date_commissioned": "Sep 5, 1922",
             "date_sworn_in": "Oct 2, 1922",
@@ -1847,6 +2072,7 @@
     "William Howard Taft": {
         "name": "William Howard Taft",
         "justice_link": "https://www.oyez.org/justices/william_howard_taft",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/William_Howard_Taft",
         "start_date": {
             "month": "Jul",
             "day": 11,
@@ -1876,6 +2102,10 @@
         },
         "role": {
             "appointing_president": "Warren G. Harding",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jun 30, 1921",
             "date_sworn_in": "Jul 11, 1921",
@@ -1888,6 +2118,7 @@
     "John H. Clarke": {
         "name": "John H. Clarke",
         "justice_link": "https://www.oyez.org/justices/john_h_clarke",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_Hessin_Clarke",
         "start_date": {
             "month": "Oct",
             "day": 9,
@@ -1917,6 +2148,10 @@
         },
         "role": {
             "appointing_president": "Woodrow Wilson",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jul 24, 1916",
             "date_sworn_in": "Oct 9, 1916",
@@ -1929,6 +2164,7 @@
     "Louis D. Brandeis": {
         "name": "Louis D. Brandeis",
         "justice_link": "https://www.oyez.org/justices/louis_d_brandeis",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louis_Brandeis",
         "start_date": {
             "month": "Jun",
             "day": 5,
@@ -1958,6 +2194,10 @@
         },
         "role": {
             "appointing_president": "Woodrow Wilson",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jun 1, 1916",
             "date_sworn_in": "Jun 5, 1916",
@@ -1970,6 +2210,7 @@
     "James C. McReynolds": {
         "name": "James C. McReynolds",
         "justice_link": "https://www.oyez.org/justices/james_c_mcreynolds",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/James_Clark_McReynolds",
         "start_date": {
             "month": "Oct",
             "day": 12,
@@ -1999,6 +2240,10 @@
         },
         "role": {
             "appointing_president": "Woodrow Wilson",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Aug 29, 1914",
             "date_sworn_in": "Oct 12, 1914",
@@ -2011,6 +2256,7 @@
     "Mahlon Pitney": {
         "name": "Mahlon Pitney",
         "justice_link": "https://www.oyez.org/justices/mahlon_pitney",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mahlon_Pitney",
         "start_date": {
             "month": "Mar",
             "day": 18,
@@ -2040,6 +2286,10 @@
         },
         "role": {
             "appointing_president": "William Howard Taft",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 13, 1912",
             "date_sworn_in": "Mar 18, 1912",
@@ -2052,6 +2302,7 @@
     "Willis Van Devanter": {
         "name": "Willis Van Devanter",
         "justice_link": "https://www.oyez.org/justices/willis_van_devanter",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Willis_Van_Devanter",
         "start_date": {
             "month": "Jan",
             "day": 3,
@@ -2081,6 +2332,10 @@
         },
         "role": {
             "appointing_president": "William Howard Taft",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 16, 1910",
             "date_sworn_in": "Jan 3, 1911",
@@ -2093,6 +2348,7 @@
     "Joseph R. Lamar": {
         "name": "Joseph R. Lamar",
         "justice_link": "https://www.oyez.org/justices/joseph_r_lamar",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Joseph_Rucker_Lamar",
         "start_date": {
             "month": "Jan",
             "day": 3,
@@ -2122,6 +2378,10 @@
         },
         "role": {
             "appointing_president": "William Howard Taft",
+            "appointing_party": "Republican",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 17, 1910",
             "date_sworn_in": "Jan 3, 1911",
@@ -2134,6 +2394,7 @@
     "Charles E. Hughes": {
         "name": "Charles E. Hughes",
         "justice_link": "https://www.oyez.org/justices/charles_e_hughes",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Charles_Evans_Hughes",
         "start_date": {
             "month": "Feb",
             "day": 13,
@@ -2163,6 +2424,10 @@
         },
         "role": {
             "appointing_president": "William Howard Taft",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "May 2, 1910",
             "date_sworn_in": "Oct 10, 1910",
@@ -2175,6 +2440,7 @@
     "Horace H. Lurton": {
         "name": "Horace H. Lurton",
         "justice_link": "https://www.oyez.org/justices/horace_h_lurton",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Horace_Harmon_Lurton",
         "start_date": {
             "month": "Jan",
             "day": 3,
@@ -2204,6 +2470,10 @@
         },
         "role": {
             "appointing_president": "William Howard Taft",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 20, 1909",
             "date_sworn_in": "Jan 3, 1910",
@@ -2216,6 +2486,7 @@
     "William H. Moody": {
         "name": "William H. Moody",
         "justice_link": "https://www.oyez.org/justices/william_h_moody",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/William_Henry_Moody",
         "start_date": {
             "month": "Dec",
             "day": 17,
@@ -2245,6 +2516,10 @@
         },
         "role": {
             "appointing_president": "Theodore Roosevelt",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 12, 1906",
             "date_sworn_in": "Dec 17, 1906",
@@ -2257,6 +2532,7 @@
     "William R. Day": {
         "name": "William R. Day",
         "justice_link": "https://www.oyez.org/justices/william_r_day",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/William_R._Day",
         "start_date": {
             "month": "Mar",
             "day": 2,
@@ -2286,6 +2562,10 @@
         },
         "role": {
             "appointing_president": "Theodore Roosevelt",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Feb 23, 1903",
             "date_sworn_in": "Mar 2, 1903",
@@ -2298,6 +2578,7 @@
     "Oliver W. Holmes Junior": {
         "name": "Oliver W. Holmes Junior",
         "justice_link": "https://www.oyez.org/justices/oliver_w_holmes_jr",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes_Jr.",
         "start_date": {
             "month": "Dec",
             "day": 8,
@@ -2327,6 +2608,10 @@
         },
         "role": {
             "appointing_president": "Theodore Roosevelt",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 4, 1902",
             "date_sworn_in": "Dec 8, 1902",
@@ -2339,6 +2624,7 @@
     "Joseph McKenna": {
         "name": "Joseph McKenna",
         "justice_link": "https://www.oyez.org/justices/joseph_mckenna",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Joseph_McKenna",
         "start_date": {
             "month": "Jan",
             "day": 26,
@@ -2368,6 +2654,10 @@
         },
         "role": {
             "appointing_president": "William McKinley",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 21, 1898",
             "date_sworn_in": "Jan 26, 1898",
@@ -2380,6 +2670,7 @@
     "Rufus Peckham": {
         "name": "Rufus Peckham",
         "justice_link": "https://www.oyez.org/justices/rufus_peckham",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rufus_W._Peckham",
         "start_date": {
             "month": "Jan",
             "day": 6,
@@ -2409,6 +2700,10 @@
         },
         "role": {
             "appointing_president": "Grover Cleveland",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 9, 1895",
             "date_sworn_in": "Jan 6, 1896",
@@ -2421,6 +2716,7 @@
     "Edward D. White": {
         "name": "Edward D. White",
         "justice_link": "https://www.oyez.org/justices/edward_d_white",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Edward_Douglass_White",
         "start_date": {
             "month": "Dec",
             "day": 12,
@@ -2450,6 +2746,10 @@
         },
         "role": {
             "appointing_president": "Grover Cleveland",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Feb 19, 1894",
             "date_sworn_in": "Mar 12, 1894",
@@ -2462,6 +2762,7 @@
     "Howell E. Jackson": {
         "name": "Howell E. Jackson",
         "justice_link": "https://www.oyez.org/justices/howell_e_jackson",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Howell_Edmunds_Jackson",
         "start_date": {
             "month": "Mar",
             "day": 4,
@@ -2491,6 +2792,10 @@
         },
         "role": {
             "appointing_president": "Benjamin Harrison",
+            "appointing_party": "Republican",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Feb 18, 1893",
             "date_sworn_in": "Mar 4, 1893",
@@ -2503,6 +2808,7 @@
     "George Shiras Junior": {
         "name": "George Shiras Junior",
         "justice_link": "https://www.oyez.org/justices/george_shiras_jr",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/George_Shiras_Jr.",
         "start_date": {
             "month": "Oct",
             "day": 10,
@@ -2532,6 +2838,10 @@
         },
         "role": {
             "appointing_president": "Benjamin Harrison",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jul 26, 1892",
             "date_sworn_in": "Oct 10, 1892",
@@ -2544,6 +2854,7 @@
     "Henry B. Brown": {
         "name": "Henry B. Brown",
         "justice_link": "https://www.oyez.org/justices/henry_b_brown",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Henry_Billings_Brown",
         "start_date": {
             "month": "Jan",
             "day": 5,
@@ -2573,6 +2884,10 @@
         },
         "role": {
             "appointing_president": "Benjamin Harrison",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 29, 1890",
             "date_sworn_in": "Jan 5, 1891",
@@ -2585,6 +2900,7 @@
     "David J. Brewer": {
         "name": "David J. Brewer",
         "justice_link": "https://www.oyez.org/justices/david_j_brewer",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/David_Josiah_Brewer",
         "start_date": {
             "month": "Jan",
             "day": 6,
@@ -2614,6 +2930,10 @@
         },
         "role": {
             "appointing_president": "Benjamin Harrison",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 18, 1889",
             "date_sworn_in": "Jan 6, 1890",
@@ -2626,6 +2946,7 @@
     "Melville W. Fuller": {
         "name": "Melville W. Fuller",
         "justice_link": "https://www.oyez.org/justices/melville_w_fuller",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Melville_Fuller",
         "start_date": {
             "month": "Oct",
             "day": 8,
@@ -2655,6 +2976,10 @@
         },
         "role": {
             "appointing_president": "Grover Cleveland",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jul 20, 1888",
             "date_sworn_in": "Oct 8, 1888",
@@ -2667,6 +2992,7 @@
     "Lucius Q.C. Lamar": {
         "name": "Lucius Q.C. Lamar",
         "justice_link": "https://www.oyez.org/justices/lucius_qc_lamar",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lucius_Quintus_Cincinnatus_Lamar_II",
         "start_date": {
             "month": "Jan",
             "day": 18,
@@ -2696,6 +3022,10 @@
         },
         "role": {
             "appointing_president": "Grover Cleveland",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 16, 1888",
             "date_sworn_in": "Jan 18, 1888",
@@ -2708,6 +3038,7 @@
     "Samuel Blatchford": {
         "name": "Samuel Blatchford",
         "justice_link": "https://www.oyez.org/justices/samuel_blatchford",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Samuel_Blatchford",
         "start_date": {
             "month": "Apr",
             "day": 3,
@@ -2737,6 +3068,10 @@
         },
         "role": {
             "appointing_president": "Chester A. Arthur",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 22, 1882",
             "date_sworn_in": "Apr 3, 1882",
@@ -2749,6 +3084,7 @@
     "Horace Gray": {
         "name": "Horace Gray",
         "justice_link": "https://www.oyez.org/justices/horace_gray",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Horace_Gray",
         "start_date": {
             "month": "Jan",
             "day": 9,
@@ -2778,6 +3114,10 @@
         },
         "role": {
             "appointing_president": "Chester A. Arthur",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 20, 1881",
             "date_sworn_in": "Jan 9, 1882",
@@ -2790,6 +3130,7 @@
     "Stanley Matthews": {
         "name": "Stanley Matthews",
         "justice_link": "https://www.oyez.org/justices/stanley_matthews",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Stanley_Matthews_(Supreme_Court_justice)",
         "start_date": {
             "month": "May",
             "day": 17,
@@ -2819,6 +3160,10 @@
         },
         "role": {
             "appointing_president": "James A. Garfield",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "May 12, 1881",
             "date_sworn_in": "May 17, 1881",
@@ -2831,6 +3176,7 @@
     "William B. Woods": {
         "name": "William B. Woods",
         "justice_link": "https://www.oyez.org/justices/william_b_woods",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/William_Burnham_Woods",
         "start_date": {
             "month": "Jan",
             "day": 5,
@@ -2860,6 +3206,10 @@
         },
         "role": {
             "appointing_president": "Rutherford B. Hayes",
+            "appointing_party": "Whig, Republican",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "Republican",
+            "party_switch_year": "1863",
             "date_appointed": "",
             "date_commissioned": "Dec 21, 1880",
             "date_sworn_in": "Jan 5, 1881",
@@ -2872,6 +3222,7 @@
     "John M. Harlan": {
         "name": "John M. Harlan",
         "justice_link": "https://www.oyez.org/justices/john_m_harlan",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_Marshall_Harlan",
         "start_date": {
             "month": "Dec",
             "day": 19,
@@ -2901,6 +3252,10 @@
         },
         "role": {
             "appointing_president": "Rutherford B. Hayes",
+            "appointing_party": "Whig, Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Nov 29, 1877",
             "date_sworn_in": "Dec 19, 1877",
@@ -2913,6 +3268,7 @@
     "Morrison R. Waite": {
         "name": "Morrison R. Waite",
         "justice_link": "https://www.oyez.org/justices/morrison_r_waite",
+        "wikipedia_link": "",
         "start_date": {
             "month": "Mar",
             "day": 4,
@@ -2942,6 +3298,10 @@
         },
         "role": {
             "appointing_president": "Ulysses S. Grant",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 21, 1874",
             "date_sworn_in": "Mar 4, 1874",
@@ -2954,6 +3314,7 @@
     "Ward Hunt": {
         "name": "Ward Hunt",
         "justice_link": "https://www.oyez.org/justices/ward_hunt",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ward_Hunt",
         "start_date": {
             "month": "Jan",
             "day": 9,
@@ -2983,6 +3344,10 @@
         },
         "role": {
             "appointing_president": "Ulysses S. Grant",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 11, 1872",
             "date_sworn_in": "Jan 9, 1873",
@@ -2995,6 +3360,7 @@
     "Joseph P. Bradley": {
         "name": "Joseph P. Bradley",
         "justice_link": "https://www.oyez.org/justices/joseph_p_bradley",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Joseph_P._Bradley",
         "start_date": {
             "month": "Mar",
             "day": 22,
@@ -3024,6 +3390,10 @@
         },
         "role": {
             "appointing_president": "Ulysses S. Grant",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 20, 1870",
             "date_sworn_in": "Mar 22, 1870",
@@ -3036,6 +3406,7 @@
     "William Strong": {
         "name": "William Strong",
         "justice_link": "https://www.oyez.org/justices/william_strong",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/William_Strong_(Pennsylvania_judge)",
         "start_date": {
             "month": "Mar",
             "day": 14,
@@ -3065,6 +3436,10 @@
         },
         "role": {
             "appointing_president": "Ulysses S. Grant",
+            "appointing_party": "Republican",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Feb 18, 1870",
             "date_sworn_in": "Mar 14, 1870",
@@ -3077,6 +3452,7 @@
     "Salmon P. Chase": {
         "name": "Salmon P. Chase",
         "justice_link": "https://www.oyez.org/justices/salmon_p_chase",
+        "wikipedia_link": "",
         "start_date": {
             "month": "Dec",
             "day": 15,
@@ -3106,6 +3482,10 @@
         },
         "role": {
             "appointing_president": "Abraham Lincoln",
+            "appointing_party": "Whig, Republican, National Union",
+            "start_affiliation": "Republican",
+            "end_affiliation": "Democratic",
+            "party_switch_year": "1868",
             "date_appointed": "",
             "date_commissioned": "Dec 6, 1864",
             "date_sworn_in": "Dec 15, 1864",
@@ -3118,6 +3498,7 @@
     "Stephen J. Field": {
         "name": "Stephen J. Field",
         "justice_link": "https://www.oyez.org/justices/stephen_j_field",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Stephen_Johnson_Field",
         "start_date": {
             "month": "May",
             "day": 20,
@@ -3147,6 +3528,10 @@
         },
         "role": {
             "appointing_president": "Abraham Lincoln",
+            "appointing_party": "Whig, Republican, National Union",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 10, 1863",
             "date_sworn_in": "May 20, 1863",
@@ -3159,6 +3544,7 @@
     "David Davis": {
         "name": "David Davis",
         "justice_link": "https://www.oyez.org/justices/david_davis",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/David_Davis_(Supreme_Court_justice)",
         "start_date": {
             "month": "Dec",
             "day": 10,
@@ -3188,6 +3574,10 @@
         },
         "role": {
             "appointing_president": "Abraham Lincoln",
+            "appointing_party": "Whig, Republican, National Union",
+            "start_affiliation": "Independent",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 8, 1862",
             "date_sworn_in": "Dec 10, 1862",
@@ -3200,6 +3590,7 @@
     "Samuel F. Miller": {
         "name": "Samuel F. Miller",
         "justice_link": "https://www.oyez.org/justices/samuel_f_miller",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Samuel_Freeman_Miller",
         "start_date": {
             "month": "Jul",
             "day": 21,
@@ -3229,6 +3620,10 @@
         },
         "role": {
             "appointing_president": "Abraham Lincoln",
+            "appointing_party": "Whig, Republican, National Union",
+            "start_affiliation": "Republican",
+            "end_affiliation": "Independent",
+            "party_switch_year": "1870",
             "date_appointed": "",
             "date_commissioned": "Jul 16, 1862",
             "date_sworn_in": "Jul 21, 1862",
@@ -3241,6 +3636,7 @@
     "Noah Swayne": {
         "name": "Noah Swayne",
         "justice_link": "https://www.oyez.org/justices/noah_swayne",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Noah_Haynes_Swayne",
         "start_date": {
             "month": "Jan",
             "day": 27,
@@ -3270,6 +3666,10 @@
         },
         "role": {
             "appointing_president": "Abraham Lincoln",
+            "appointing_party": "Whig, Republican, National Union",
+            "start_affiliation": "Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 24, 1862",
             "date_sworn_in": "Jan 27, 1862",
@@ -3282,6 +3682,7 @@
     "Nathan Clifford": {
         "name": "Nathan Clifford",
         "justice_link": "https://www.oyez.org/justices/nathan_clifford",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nathan_Clifford",
         "start_date": {
             "month": "Jan",
             "day": 21,
@@ -3311,6 +3712,10 @@
         },
         "role": {
             "appointing_president": "James Buchanan",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 12, 1858",
             "date_sworn_in": "Jan 21, 1858",
@@ -3323,6 +3728,7 @@
     "John A. Campbell": {
         "name": "John A. Campbell",
         "justice_link": "https://www.oyez.org/justices/john_a_campbell",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_Archibald_Campbell",
         "start_date": {
             "month": "Apr",
             "day": 11,
@@ -3352,6 +3758,10 @@
         },
         "role": {
             "appointing_president": "Franklin Pierce",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 22, 1853",
             "date_sworn_in": "Apr 11, 1853",
@@ -3364,6 +3774,7 @@
     "Benjamin R. Curtis": {
         "name": "Benjamin R. Curtis",
         "justice_link": "https://www.oyez.org/justices/benjamin_r_curtis",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Benjamin_Robbins_Curtis",
         "start_date": {
             "month": "Oct",
             "day": 10,
@@ -3393,6 +3804,10 @@
         },
         "role": {
             "appointing_president": "Millard Fillmore",
+            "appointing_party": "Anti-Masonic, Whig, Know Nothing",
+            "start_affiliation": "Whig",
+            "end_affiliation": "Republican",
+            "party_switch_year": "1854",
             "date_appointed": "",
             "date_commissioned": "Sep 22, 1851",
             "date_sworn_in": "Oct 10, 1851",
@@ -3405,6 +3820,7 @@
     "Robert C. Grier": {
         "name": "Robert C. Grier",
         "justice_link": "https://www.oyez.org/justices/robert_c_grier",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Robert_Cooper_Grier",
         "start_date": {
             "month": "Aug",
             "day": 10,
@@ -3434,6 +3850,10 @@
         },
         "role": {
             "appointing_president": "James K. Polk",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Aug 4, 1846",
             "date_sworn_in": "Aug 10, 1846",
@@ -3446,6 +3866,7 @@
     "Levi Woodbury": {
         "name": "Levi Woodbury",
         "justice_link": "https://www.oyez.org/justices/levi_woodbury",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Levi_Woodbury",
         "start_date": {
             "month": "Sep",
             "day": 23,
@@ -3475,6 +3896,10 @@
         },
         "role": {
             "appointing_president": "James K. Polk",
+            "appointing_party": "Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 20, 1845",
             "date_sworn_in": "Sep 23, 1845",
@@ -3487,6 +3912,7 @@
     "Samuel Nelson": {
         "name": "Samuel Nelson",
         "justice_link": "https://www.oyez.org/justices/samuel_nelson",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Samuel_Nelson",
         "start_date": {
             "month": "Feb",
             "day": 27,
@@ -3516,6 +3942,10 @@
         },
         "role": {
             "appointing_president": "John Tyler",
+            "appointing_party": "None",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Feb 13, 1845",
             "date_sworn_in": "Feb 27, 1845",
@@ -3528,6 +3958,7 @@
     "Peter V. Daniel": {
         "name": "Peter V. Daniel",
         "justice_link": "https://www.oyez.org/justices/peter_v_daniel",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Peter_Vivian_Daniel",
         "start_date": {
             "month": "Jan",
             "day": 10,
@@ -3557,6 +3988,10 @@
         },
         "role": {
             "appointing_president": "Martin Van Buren",
+            "appointing_party": "Democratic-Republican, Free Soil, Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 3, 1841",
             "date_sworn_in": "Jan 10, 1842",
@@ -3569,6 +4004,7 @@
     "John McKinley": {
         "name": "John McKinley",
         "justice_link": "https://www.oyez.org/justices/john_mckinley",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_McKinley",
         "start_date": {
             "month": "Jan",
             "day": 9,
@@ -3598,6 +4034,10 @@
         },
         "role": {
             "appointing_president": "Martin Van Buren",
+            "appointing_party": "Democratic-Republican, Free Soil, Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 25, 1837",
             "date_sworn_in": "Jan 9, 1838",
@@ -3610,6 +4050,7 @@
     "John Catron": {
         "name": "John Catron",
         "justice_link": "https://www.oyez.org/justices/john_catron",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_Catron",
         "start_date": {
             "month": "May",
             "day": 1,
@@ -3639,6 +4080,10 @@
         },
         "role": {
             "appointing_president": "Andrew Jackson",
+            "appointing_party": "Democratic-Republican, Jacksonian, Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 8, 1837",
             "date_sworn_in": "May 1, 1837",
@@ -3651,6 +4096,7 @@
     "Philip P. Barbour": {
         "name": "Philip P. Barbour",
         "justice_link": "https://www.oyez.org/justices/philip_p_barbour",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philip_Pendleton_Barbour",
         "start_date": {
             "month": "May",
             "day": 12,
@@ -3680,6 +4126,10 @@
         },
         "role": {
             "appointing_president": "Andrew Jackson",
+            "appointing_party": "Democratic-Republican, Jacksonian, Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 15, 1836",
             "date_sworn_in": "May 12, 1836",
@@ -3692,6 +4142,7 @@
     "Roger B. Taney": {
         "name": "Roger B. Taney",
         "justice_link": "https://www.oyez.org/justices/roger_b_taney",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Roger_B._Taney",
         "start_date": {
             "month": "Mar",
             "day": 28,
@@ -3721,6 +4172,10 @@
         },
         "role": {
             "appointing_president": "Andrew Jackson",
+            "appointing_party": "Democratic-Republican, Jacksonian, Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 15, 1836",
             "date_sworn_in": "Mar 28, 1836",
@@ -3733,6 +4188,7 @@
     "James M. Wayne": {
         "name": "James M. Wayne",
         "justice_link": "https://www.oyez.org/justices/james_m_wayne",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/James_Moore_Wayne",
         "start_date": {
             "month": "Jan",
             "day": 14,
@@ -3762,6 +4218,10 @@
         },
         "role": {
             "appointing_president": "Andrew Jackson",
+            "appointing_party": "Democratic-Republican, Jacksonian, Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 9, 1835",
             "date_sworn_in": "Jan 14, 1835",
@@ -3774,6 +4234,7 @@
     "John McLean": {
         "name": "John McLean",
         "justice_link": "https://www.oyez.org/justices/john_mclean",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_McLean",
         "start_date": {
             "month": "Mar",
             "day": 12,
@@ -3803,6 +4264,10 @@
         },
         "role": {
             "appointing_president": "Andrew Jackson",
+            "appointing_party": "Democratic-Republican, Jacksonian, Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "Republican",
+            "party_switch_year": "1831",
             "date_appointed": "",
             "date_commissioned": "Mar 7, 1829",
             "date_sworn_in": "Mar 12, 1830",
@@ -3815,6 +4280,7 @@
     "Henry Baldwin": {
         "name": "Henry Baldwin",
         "justice_link": "https://www.oyez.org/justices/henry_baldwin",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Henry_Baldwin_(judge)",
         "start_date": {
             "month": "Jan",
             "day": 18,
@@ -3844,6 +4310,10 @@
         },
         "role": {
             "appointing_president": "Andrew Jackson",
+            "appointing_party": "Democratic-Republican, Jacksonian, Democratic",
+            "start_affiliation": "Democratic",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 6, 1830",
             "date_sworn_in": "Jan 18, 1830",
@@ -3856,6 +4326,7 @@
     "Robert Trimble": {
         "name": "Robert Trimble",
         "justice_link": "https://www.oyez.org/justices/robert_trimble",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Robert_Trimble",
         "start_date": {
             "month": "Jun",
             "day": 16,
@@ -3885,6 +4356,10 @@
         },
         "role": {
             "appointing_president": "John Quincy Adams",
+            "appointing_party": "Federalist, Democratic-Republican, National Republican, Anti-Masonic, Whig",
+            "start_affiliation": "Democratic-Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "May 9, 1826",
             "date_sworn_in": "Jun 16, 1826",
@@ -3897,6 +4372,7 @@
     "Smith Thompson": {
         "name": "Smith Thompson",
         "justice_link": "https://www.oyez.org/justices/smith_thompson",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Smith_Thompson",
         "start_date": {
             "month": "Sep",
             "day": 1,
@@ -3926,6 +4402,10 @@
         },
         "role": {
             "appointing_president": "James Monroe",
+            "appointing_party": "Democratic-Republican",
+            "start_affiliation": "Democratic-Republican",
+            "end_affiliation": "National Republican",
+            "party_switch_year": "1825",
             "date_appointed": "",
             "date_commissioned": "Sep 1, 1823",
             "date_sworn_in": "Sep 1, 1823",
@@ -3938,6 +4418,7 @@
     "Joseph Story": {
         "name": "Joseph Story",
         "justice_link": "https://www.oyez.org/justices/joseph_story",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Joseph_Story",
         "start_date": {
             "month": "Feb",
             "day": 3,
@@ -3967,6 +4448,10 @@
         },
         "role": {
             "appointing_president": "James Madison",
+            "appointing_party": "Democratic-Republican",
+            "start_affiliation": "Democratic-Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Nov 18, 1811",
             "date_sworn_in": "Feb 3, 1812",
@@ -3979,6 +4464,7 @@
     "Gabriel Duvall": {
         "name": "Gabriel Duvall",
         "justice_link": "https://www.oyez.org/justices/gabriel_duvall",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gabriel_Duvall",
         "start_date": {
             "month": "Nov",
             "day": 23,
@@ -4008,6 +4494,10 @@
         },
         "role": {
             "appointing_president": "James Madison",
+            "appointing_party": "Democratic-Republican",
+            "start_affiliation": "Democratic-Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Nov 18, 1811",
             "date_sworn_in": "Nov 23, 1811",
@@ -4020,6 +4510,7 @@
     "Thomas Todd": {
         "name": "Thomas Todd",
         "justice_link": "https://www.oyez.org/justices/thomas_todd",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thomas_Todd",
         "start_date": {
             "month": "May",
             "day": 4,
@@ -4049,6 +4540,10 @@
         },
         "role": {
             "appointing_president": "Thomas Jefferson",
+            "appointing_party": "Democratic-Republican",
+            "start_affiliation": "Democratic-Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 3, 1807",
             "date_sworn_in": "May 4, 1807",
@@ -4061,6 +4556,7 @@
     "Henry Brockholst Livingston": {
         "name": "Henry Brockholst Livingston",
         "justice_link": "https://www.oyez.org/justices/brockholst_livingston",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Henry_Brockholst_Livingston",
         "start_date": {
             "month": "Jan",
             "day": 20,
@@ -4090,6 +4586,10 @@
         },
         "role": {
             "appointing_president": "Thomas Jefferson",
+            "appointing_party": "Democratic-Republican",
+            "start_affiliation": "Democratic-Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Nov 10, 1806",
             "date_sworn_in": "Jan 20, 1807",
@@ -4102,6 +4602,7 @@
     "William Johnson": {
         "name": "William Johnson",
         "justice_link": "https://www.oyez.org/justices/william_johnson",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/William_Johnson_(judge)",
         "start_date": {
             "month": "May",
             "day": 7,
@@ -4131,6 +4632,10 @@
         },
         "role": {
             "appointing_president": "Thomas Jefferson",
+            "appointing_party": "Democratic-Republican",
+            "start_affiliation": "Democratic-Republican",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 26, 1804",
             "date_sworn_in": "May 7, 1804",
@@ -4143,6 +4648,7 @@
     "John Marshall": {
         "name": "John Marshall",
         "justice_link": "https://www.oyez.org/justices/john_marshall",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_Marshall",
         "start_date": {
             "month": "Feb",
             "day": 4,
@@ -4172,6 +4678,10 @@
         },
         "role": {
             "appointing_president": "John Adams",
+            "appointing_party": "Pro-Administration, Federalist, Democratic-Republican",
+            "start_affiliation": "Federalist",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 31, 1801",
             "date_sworn_in": "Feb 4, 1801",
@@ -4184,6 +4694,7 @@
     "Alfred Moore": {
         "name": "Alfred Moore",
         "justice_link": "https://www.oyez.org/justices/alfred_moore",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alfred_Moore",
         "start_date": {
             "month": "Apr",
             "day": 21,
@@ -4213,6 +4724,10 @@
         },
         "role": {
             "appointing_president": "John Adams",
+            "appointing_party": "Pro-Administration, Federalist, Democratic-Republican",
+            "start_affiliation": "Federalist",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Dec 10, 1799",
             "date_sworn_in": "Apr 21, 1800",
@@ -4225,6 +4740,7 @@
     "Bushrod Washington": {
         "name": "Bushrod Washington",
         "justice_link": "https://www.oyez.org/justices/bushrod_washington",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bushrod_Washington",
         "start_date": {
             "month": "Nov",
             "day": 9,
@@ -4254,6 +4770,10 @@
         },
         "role": {
             "appointing_president": "John Adams",
+            "appointing_party": "Pro-Administration, Federalist, Democratic-Republican",
+            "start_affiliation": "Federalist",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 29, 1798",
             "date_sworn_in": "Nov 9, 1798",
@@ -4266,6 +4786,7 @@
     "Oliver Ellsworth": {
         "name": "Oliver Ellsworth",
         "justice_link": "https://www.oyez.org/justices/oliver_ellsworth",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oliver_Ellsworth",
         "start_date": {
             "month": "Mar",
             "day": 8,
@@ -4295,6 +4816,10 @@
         },
         "role": {
             "appointing_president": "George Washington",
+            "appointing_party": "Independent",
+            "start_affiliation": "Federalist",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 4, 1796",
             "date_sworn_in": "Mar 8, 1796",
@@ -4307,6 +4832,7 @@
     "Samuel Chase": {
         "name": "Samuel Chase",
         "justice_link": "https://www.oyez.org/justices/samuel_chase",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Samuel_Chase",
         "start_date": {
             "month": "Feb",
             "day": 4,
@@ -4336,6 +4862,10 @@
         },
         "role": {
             "appointing_president": "George Washington",
+            "appointing_party": "Independent",
+            "start_affiliation": "Federalist",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Jan 27, 1796",
             "date_sworn_in": "Feb 4, 1796",
@@ -4348,6 +4878,7 @@
     "William Paterson": {
         "name": "William Paterson",
         "justice_link": "https://www.oyez.org/justices/william_paterson",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/William_Paterson_(judge)",
         "start_date": {
             "month": "Mar",
             "day": 11,
@@ -4377,6 +4908,10 @@
         },
         "role": {
             "appointing_president": "George Washington",
+            "appointing_party": "Independent",
+            "start_affiliation": "Federalist",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Mar 4, 1793",
             "date_sworn_in": "Mar 11, 1793",
@@ -4389,6 +4924,7 @@
     "Thomas Johnson": {
         "name": "Thomas Johnson",
         "justice_link": "https://www.oyez.org/justices/thomas_johnson",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thomas_Johnson_(jurist)",
         "start_date": {
             "month": "Jan",
             "day": 19,
@@ -4418,6 +4954,10 @@
         },
         "role": {
             "appointing_president": "George Washington",
+            "appointing_party": "Independent",
+            "start_affiliation": "Federalist",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Aug 5, 1791",
             "date_sworn_in": "Jan 19, 1792",
@@ -4430,6 +4970,7 @@
     "James Iredell": {
         "name": "James Iredell",
         "justice_link": "https://www.oyez.org/justices/james_iredell",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/James_Iredell",
         "start_date": {
             "month": "May",
             "day": 12,
@@ -4459,6 +5000,10 @@
         },
         "role": {
             "appointing_president": "George Washington",
+            "appointing_party": "Independent",
+            "start_affiliation": "Federalist",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Feb 10, 1790",
             "date_sworn_in": "May 12, 1790",
@@ -4471,6 +5016,7 @@
     "John Rutledge": {
         "name": "John Rutledge",
         "justice_link": "https://www.oyez.org/justices/john_rutledge",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_Rutledge",
         "start_date": {
             "month": "Aug",
             "day": 12,
@@ -4500,6 +5046,10 @@
         },
         "role": {
             "appointing_president": "George Washington",
+            "appointing_party": "Independent",
+            "start_affiliation": "Federalist",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 26, 1789",
             "date_sworn_in": "Feb 15, 1790",
@@ -4512,6 +5062,7 @@
     "John Blair Junior": {
         "name": "John Blair Junior",
         "justice_link": "https://www.oyez.org/justices/john_blair",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_Blair_Jr.",
         "start_date": {
             "month": "Feb",
             "day": 2,
@@ -4541,6 +5092,10 @@
         },
         "role": {
             "appointing_president": "George Washington",
+            "appointing_party": "Independent",
+            "start_affiliation": "Federalist",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 30, 1789",
             "date_sworn_in": "Feb 2, 1790",
@@ -4553,6 +5108,7 @@
     "William Cushing": {
         "name": "William Cushing",
         "justice_link": "https://www.oyez.org/justices/william_cushing",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/William_Cushing",
         "start_date": {
             "month": "Feb",
             "day": 2,
@@ -4582,6 +5138,10 @@
         },
         "role": {
             "appointing_president": "George Washington",
+            "appointing_party": "Independent",
+            "start_affiliation": "UNKNOWN",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 27, 1789",
             "date_sworn_in": "Feb 2, 1790",
@@ -4594,6 +5154,7 @@
     "John Jay": {
         "name": "John Jay",
         "justice_link": "https://www.oyez.org/justices/john_jay",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/John_Jay",
         "start_date": {
             "month": "Oct",
             "day": 19,
@@ -4623,6 +5184,10 @@
         },
         "role": {
             "appointing_president": "George Washington",
+            "appointing_party": "Independent",
+            "start_affiliation": "Federalist",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 26, 1789",
             "date_sworn_in": "Oct 19, 1789",
@@ -4635,6 +5200,7 @@
     "James Wilson": {
         "name": "James Wilson",
         "justice_link": "https://www.oyez.org/justices/james_wilson",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/James_Wilson",
         "start_date": {
             "month": "Oct",
             "day": 5,
@@ -4664,6 +5230,10 @@
         },
         "role": {
             "appointing_president": "George Washington",
+            "appointing_party": "Independent",
+            "start_affiliation": "Federalist",
+            "end_affiliation": "",
+            "party_switch_year": "",
             "date_appointed": "",
             "date_commissioned": "Sep 29, 1789",
             "date_sworn_in": "Oct 5, 1789",
