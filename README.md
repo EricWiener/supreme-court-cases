@@ -1,15 +1,18 @@
 # JSON transcriptions of supreme court cases
 The included case details and justice details were mostly compiled from oyez and wikipedia. Some corrections were made by hand.
 
+Also included for some cases are Wikipedia Infobox data. This information was only available for 1572 out of the 7687 total cases.
+
 The case files are saved in JSON in the form:
 ```javascript
-// ~/Downloads/transcripts/2018/Apple_v._Pepper.js
+// ~/Downloads/transcripts/2018/Younger_v._Harris.js
 {
-    term: "2018",
-    caseName: "Apple v. Pepper",
-    caseLink: "https://www.oyez.org/cases/2018/17-204",
+    term: "1970",
+    caseName: "Younger v. Harris",
+    caseLink: "https://www.oyez.org/cases/1970/2",
     caseTranscripts: [
         {
+            // transcript used from Apple_v_Pepper for demo purposes
             transcriptTitle: "Oral Argument - November 26, 2018",
             transcriptLink: "https://apps.oyez.org/player/#/roberts10/oral_argument_audio/24778",
             transcript: [
@@ -45,7 +48,45 @@ The case files are saved in JSON in the form:
                 }
             ]
         }
-    ]
+    ],
+    decidedBy: "Burger Court",
+    arguedOn: "Apr 1, 1969",
+    petitioner: "",
+    respondent: "",
+    docket: "2",
+    citation: "401\u00a0US\u00a037\u00a0(1971)",
+    justiaLink: "https://supreme.justia.com/cases/federal/us/401/37",
+    lowerCourt: "Federal district court",
+    grantedOn: "",
+    decidedOn: "Feb 23, 1971",
+    wikiData: {
+        title: "Younger v. Harris",
+        Litigants: "Younger v. Harris",
+        ArgueDate: "April 1",
+        ArgueYear: "1969",
+        ReargueDate: "April 29",
+        ReargueYear: "1970",
+        ReargueDate2: "November 16",
+        ReargueYear2: "1970",
+        DecideDate: "February 23",
+        DecideYear: "1971",
+        FullName: "Evelle J. Younger, District Attorney of Los Angeles County v. John Harris, Jr., Jim Dan, iane Hirsch, and Farrel Broslawsky",
+        USVol: "401",
+        USPage: "37",
+        ParallelCitations: "91 S. Ct. 746; 27 [[L. Ed. 2d]] 669; 1971 [[U.S. LEXIS]] 136",
+        Prior: "Judgment for plaintiffs, 281 [[F. Supp.]] [https://law.justia.com/cases/federal/district-courts/FSupp/281/507/1575355/ 507] ([[United States District Court for the Central District of California|C.D. Cal.]] 1968)",
+        Subsequent: "",
+        Holding: "The possible unconstitutionality of a state statute is not grounds for a federal court to enjoin state court criminal proceedings brought pursuant to that statute.  District Court for the Central District of California reversed and remanded.",
+        SCOTUS: "1970-1971",
+        Majority: "Black",
+        JoinMajority: "Burger, Harlan, Stewart, Blackmun",
+        Concurrence: "Stewart",
+        JoinConcurrence: "Harlan",
+        Concurrence2: "Brennan",
+        JoinConcurrence2: "White, Marshall",
+        Dissent: "Douglas",
+        LawsApplied: "{{UnitedStatesCode|28|2283}}"
+    }
 }
 ```
 
