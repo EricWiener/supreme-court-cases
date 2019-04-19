@@ -1,1 +1,1 @@
-{"term":"1975","caseName":"United States v. Maine","caseLink":"https://www.oyez.org/cases/1975/35-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1975", "caseName": "United States v. Maine", "caseLink": "https://www.oyez.org/cases/1975/35-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

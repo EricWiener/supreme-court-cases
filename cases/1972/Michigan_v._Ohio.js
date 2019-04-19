@@ -1,1 +1,1 @@
-{"term":"1972","caseName":"Michigan v. Ohio","caseLink":"https://www.oyez.org/cases/1972/30-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1972", "caseName": "Michigan v. Ohio", "caseLink": "https://www.oyez.org/cases/1972/30-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

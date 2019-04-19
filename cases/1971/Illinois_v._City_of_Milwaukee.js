@@ -1,1 +1,1 @@
-{"term":"1971","caseName":"Illinois v. City of Milwaukee","caseLink":"https://www.oyez.org/cases/1971/49-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1971", "caseName": "Illinois v. City of Milwaukee", "caseLink": "https://www.oyez.org/cases/1971/49-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

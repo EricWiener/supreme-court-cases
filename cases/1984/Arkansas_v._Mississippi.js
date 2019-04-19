@@ -1,1 +1,1 @@
-{"term":"1984","caseName":"Arkansas v. Mississippi","caseLink":"https://www.oyez.org/cases/1984/92-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1984", "caseName": "Arkansas v. Mississippi", "caseLink": "https://www.oyez.org/cases/1984/92-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

@@ -1,1 +1,1 @@
-{"term":"1975","caseName":"Pennsylvania v. New Jersey","caseLink":"https://www.oyez.org/cases/1975/68-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1975", "caseName": "Pennsylvania v. New Jersey", "caseLink": "https://www.oyez.org/cases/1975/68-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

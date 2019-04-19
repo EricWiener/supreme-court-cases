@@ -1,1 +1,1 @@
-{"term":"1972","caseName":"Texas v. Louisiana","caseLink":"https://www.oyez.org/cases/1972/36-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1972", "caseName": "Texas v. Louisiana", "caseLink": "https://www.oyez.org/cases/1972/36-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

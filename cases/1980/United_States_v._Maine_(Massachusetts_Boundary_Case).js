@@ -1,1 +1,1 @@
-{"term":"1980","caseName":"United States v. Maine (Massachusetts Boundary Case)","caseLink":"https://www.oyez.org/cases/1980/35-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1980", "caseName": "United States v. Maine (Massachusetts Boundary Case)", "caseLink": "https://www.oyez.org/cases/1980/35-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

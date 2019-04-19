@@ -1,1 +1,1 @@
-{"term":"1971","caseName":"Washington v. General Motors Corporation","caseLink":"https://www.oyez.org/cases/1971/45-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1971", "caseName": "Washington v. General Motors Corporation", "caseLink": "https://www.oyez.org/cases/1971/45-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

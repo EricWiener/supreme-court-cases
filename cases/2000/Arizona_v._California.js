@@ -1,1 +1,1 @@
-{"term":"2000","caseName":"Arizona v. California","caseLink":"https://www.oyez.org/cases/2000/8-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "2000", "caseName": "Arizona v. California", "caseLink": "https://www.oyez.org/cases/2000/8-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

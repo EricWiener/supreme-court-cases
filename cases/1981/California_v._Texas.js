@@ -1,1 +1,1 @@
-{"term":"1981","caseName":"California v. Texas","caseLink":"https://www.oyez.org/cases/1981/88-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1981", "caseName": "California v. Texas", "caseLink": "https://www.oyez.org/cases/1981/88-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

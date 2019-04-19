@@ -1,1 +1,1 @@
-{"term":"1982","caseName":"Idaho ex rel. Evans v. Oregon","caseLink":"https://www.oyez.org/cases/1982/67-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1982", "caseName": "Idaho ex rel. Evans v. Oregon", "caseLink": "https://www.oyez.org/cases/1982/67-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

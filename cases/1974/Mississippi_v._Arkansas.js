@@ -1,1 +1,1 @@
-{"term":"1974","caseName":"Mississippi v. Arkansas","caseLink":"https://www.oyez.org/cases/1974/48-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1974", "caseName": "Mississippi v. Arkansas", "caseLink": "https://www.oyez.org/cases/1974/48-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

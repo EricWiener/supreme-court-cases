@@ -1,1 +1,1 @@
-{"term":"1975","caseName":"United States v. Florida","caseLink":"https://www.oyez.org/cases/1975/52-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1975", "caseName": "United States v. Florida", "caseLink": "https://www.oyez.org/cases/1975/52-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

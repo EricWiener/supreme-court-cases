@@ -1,1 +1,1 @@
-{"term":"1990","caseName":"Illinois v. Kentucky","caseLink":"https://www.oyez.org/cases/1990/106-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1990", "caseName": "Illinois v. Kentucky", "caseLink": "https://www.oyez.org/cases/1990/106-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

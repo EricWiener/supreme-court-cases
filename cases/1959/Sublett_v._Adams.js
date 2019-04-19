@@ -1,1 +1,1 @@
-{"term":"1959","caseName":"Sublett v. Adams","caseLink":"https://www.oyez.org/cases/1959/406","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1959", "caseName": "Sublett v. Adams", "caseLink": "https://www.oyez.org/cases/1959/406", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

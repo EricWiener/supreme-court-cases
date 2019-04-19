@@ -1,1 +1,1 @@
-{"term":"1982","caseName":"Colorado v. New Mexico","caseLink":"https://www.oyez.org/cases/1982/80-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1982", "caseName": "Colorado v. New Mexico", "caseLink": "https://www.oyez.org/cases/1982/80-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

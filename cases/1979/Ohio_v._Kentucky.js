@@ -1,1 +1,1 @@
-{"term":"1979","caseName":"Ohio v. Kentucky","caseLink":"https://www.oyez.org/cases/1979/27-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1979", "caseName": "Ohio v. Kentucky", "caseLink": "https://www.oyez.org/cases/1979/27-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

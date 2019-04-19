@@ -1,1 +1,1 @@
-{"term":"1983","caseName":"Louisiana v. Mississippi Orig. Argued","caseLink":"https://www.oyez.org/cases/1983/86-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1983", "caseName": "Louisiana v. Mississippi Orig. Argued", "caseLink": "https://www.oyez.org/cases/1983/86-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

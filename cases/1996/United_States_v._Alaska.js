@@ -1,1 +1,1 @@
-{"term":"1996","caseName":"United States v. Alaska","caseLink":"https://www.oyez.org/cases/1996/84-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1996", "caseName": "United States v. Alaska", "caseLink": "https://www.oyez.org/cases/1996/84-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

@@ -1,1 +1,1 @@
-{"term":"1992","caseName":"Nebraska v. Wyoming","caseLink":"https://www.oyez.org/cases/1992/108-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1992", "caseName": "Nebraska v. Wyoming", "caseLink": "https://www.oyez.org/cases/1992/108-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}

@@ -1,1 +1,1 @@
-{"term":"1995","caseName":"Louisiana v. Mississippi","caseLink":"https://www.oyez.org/cases/1995/121-orig","caseTranscripts":[],"decidedBy":"","arguedOn":"","petitioner":"","respondent":"","docket":"","citation":"","justiaLink":"","lowerCourt":""}
+{"term": "1995", "caseName": "Louisiana v. Mississippi", "caseLink": "https://www.oyez.org/cases/1995/121-orig", "caseTranscripts": [], "decidedBy": "", "arguedOn": "", "petitioner": "", "respondent": "", "docket": "", "citation": "", "justiaLink": "", "lowerCourt": ""}
